@@ -184,5 +184,6 @@ Our index.html file looks like this.
 
 </html>
 ```
+So, finally our output is working and you can navigate the routes and see according to that output is changing.
 
 @[React Router Tutorial]({"stubs": ["src/App.js", "src/main.js", "src/index.html", "src/components/Home.js", "src/components/About.js", "src/components/Contact.js"], "command": "./run.sh"})
