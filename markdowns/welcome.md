@@ -35,8 +35,10 @@ ReactDOM.render(<App />, document.getElementById('app'));
 ```
 ## The Router
 There are two types of router object.
+
 1. BrowserRouter
 2. HashRouter
+
 If we want to handle the dynamic request then use BrowserRouter and if we want to serve the static request then use HashRouter.
 
 ## History
