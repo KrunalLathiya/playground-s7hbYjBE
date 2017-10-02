@@ -2,7 +2,7 @@
 
 React.js is quite a famous library among the JavaScript developers. Routing to front end application is a very important concept and today I am going to show you how to use react router v4 in our React.js application. We will see Declarative React Routing for React.js app.
 
-The source code for this template is on [GitHub](https://github.com/TechDotIO/react-template), please feel free to come up with proposals to improve it.
+The source code for this template is on [GitHub](https://github.com/KrunalLathiya/playground-s7hbYjBE), please feel free to come up with proposals to improve it.
 
 # Step 1: Build an App.js React component.
 In the **src** directory, create one component file called **App.js** and put the following code into it.
@@ -35,8 +35,8 @@ ReactDOM.render(<App />, document.getElementById('app'));
 ```
 ## The Router
 There are two types of router object.
-	1. BrowserRouter
-	2. HashRouter
+1. BrowserRouter
+2. HashRouter
 If we want to handle the dynamic request then use BrowserRouter and if we want to serve the static request then use HashRouter.
 
 ## History
