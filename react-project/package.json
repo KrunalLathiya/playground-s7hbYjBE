@@ -1,5 +1,5 @@
 {
-  "name": "react-template",
+  "name": "react-router",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack -d --progress --config=webpack.config.js"
   },
-  "author": "Quentin FERNANDEZ",
+  "author": "KRUNAL LATHIYA",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "6.24.1",
@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "react": "15.5.4",
-    "react-dom": "15.5.4"
+    "react-dom": "15.5.4",
+    "react-router-dom": "^4.2.2",
   }
 }
